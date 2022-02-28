@@ -1,4 +1,5 @@
 # testing Changes to GitHub.com #
+print('hello')
 
 from machine import Pin,UART
 
