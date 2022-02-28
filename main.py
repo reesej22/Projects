@@ -1,23 +1,9 @@
-# Update to GitHub #
-
-print('hello')
-
-from machine import Pin,UART
-
-uart = UART(0,9600)
-
-LedGPIO = 16
-led = Pin(LedGPIO, Pin.OUT)
-
-
-while True:
-    if uart.any():
-        command = uart.readline()
-        # print(command)   # uncomment this line to see the recieved data
-        if command==b'\xd0':
-            led.high()
-            print("ON")
-        elif command==b'\xd5':
-            led.low()
-            print("OFF")
-
+## importing socket module
+import socket
+## getting the hostname by socket.gethostname() method
+hostname = socket.gethostname()
+## getting the IP address using socket.gethostbyname() method
+ip_address = socket.gethostbyname(hostname)
+## printing the hostname and ip_address
+print(f"Hostname: {hostname}")
+print(f"IP Address: {ip_address}")
