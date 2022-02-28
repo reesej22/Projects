@@ -1,9 +1,9 @@
 # Projects
 The main.py file is an example of how a python script can be used to output the host name and ip address.
 
-The Chromebook vimrc file serves as an example. It contains settings for vim-airline aswell as a function to remove trailing whitespace.
+The Chromebook vimrc file serves as an example. It contains settings for vim-airline as well as a function to remove trailing whitespace.
 
-Ultimately, this project will serve as a learning experience. The Git commands used to creat this project are:
+Ultimately, this project will serve as a learning experience. The Git commands used to create this project are:
 	git clone "...."
 	git init
 	git add -A
