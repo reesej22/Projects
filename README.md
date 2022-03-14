@@ -12,9 +12,9 @@ Ultimately, this project will serve as a learning experience. The Git commands u
 	git push origin master
 
 This project was inspired by Corey Schafer's YouTube channel. 
-https://www.youtube.com/watch?v=HVsySz-h9r4&t=1507s 
+```https://www.youtube.com/watch?v=HVsySz-h9r4&t=1507s ```
 
 Link to Git's documentation
-https://git-scm.com/doc
+[Git-SCM Docs](https://git-scm.com/doc)
 
 The Learning_Markdown.md file contains examples of markdown syntax. I created this document by following Traversy Media's Youtube "Markdown Crash Course" ```https://www.youtube.com/watch?v=HUBNt18RFbo```
