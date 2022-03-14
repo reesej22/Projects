@@ -17,4 +17,4 @@ https://www.youtube.com/watch?v=HVsySz-h9r4&t=1507s
 Link to Git's documentation
 https://git-scm.com/doc
 
-
+The Learning_Markdown.md file contains examples of markdown syntax. I created this document by following Traversy Media's Youtube "Markdown Crash Course" ```https://www.youtube.com/watch?v=HUBNt18RFbo```
